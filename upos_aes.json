@@ -1,0 +1,15 @@
+{
+	"verb":"VERB",
+	"entity_name":"PROPN",
+	"adverb":"ADV",
+	"preposition":"ADP",
+	"interjection":"INTJ",
+	"pronoun":"PRON",
+	"substantive":"NOUN",
+	"numeral":"NUM",
+	"epitheton_title":"SYM",
+	"particle":"PART",
+	"adjective":"ADJ",
+	"unknown":"X",
+	"undefined":"X"
+}
